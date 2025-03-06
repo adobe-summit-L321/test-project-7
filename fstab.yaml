@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/adobe-commerce/ccdm-demo-store/
+    url: https://content.da.live/adobe-summit-L321/test-project-7/
     type: markup
 
 folders:
